@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 22 Oct 2020 16:51:32 GMT
+ * Generated on Thu, 22 Oct 2020 17:08:14 GMT
  */
 
 export const Red = "#ff0f0f";
