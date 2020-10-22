@@ -1,0 +1,30 @@
+{
+  "font": {
+    "Button label": {
+      "family": {
+        "value": "Helvetica Neue"
+      },
+      "style": {
+        "value": "Bold"
+      }
+    },
+    "Title": {
+      "family": {
+        "value": "Helvetica Neue"
+      },
+      "style": {
+        "value": "Regular"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "Button label": {
+        "value": "16"
+      },
+      "Title": {
+        "value": "20"
+      }
+    }
+  }
+}

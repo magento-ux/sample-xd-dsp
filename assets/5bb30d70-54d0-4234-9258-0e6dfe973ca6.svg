@@ -1,0 +1,7 @@
+<svg id="Button" xmlns="http://www.w3.org/2000/svg" width="160" height="74" viewBox="0 0 160 74">
+  <g id="Rectangle_2" data-name="Rectangle 2" fill="#d5d5d5" stroke="#707070" stroke-width="1">
+    <rect width="160" height="74" stroke="none"/>
+    <rect x="0.5" y="0.5" width="159" height="73" fill="none"/>
+  </g>
+  <text id="Button-2" data-name="Button" transform="translate(55 44)" fill="#707070" font-size="16" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Button</tspan></text>
+</svg>

@@ -1,0 +1,25 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2020-10-22T16:51:00.901Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "090fbd91-86dd-4c17-92ab-1023d8265276",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Button",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d53e7fd-9176-4086-7a66-4f6503bd0515",
+        "id": "5bb30d70-54d0-4234-9258-0e6dfe973ca6",
+        "last_sync": "2020-10-22T16:51:00.899Z",
+        "sync": true
+      }
+    }
+  ]
+}

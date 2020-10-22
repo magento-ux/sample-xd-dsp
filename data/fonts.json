@@ -1,0 +1,73 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "",
+  "last_updated": "2020-10-22T16:51:00.901Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "8a1830bf-d693-4762-abc0-1dd76a96324a",
+      "name": "Button label",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d53e7fd-9176-4086-7a66-4f6503bd0515",
+        "id": "a35d9e3b-650c-4607-b28c-6c07d72b21eb",
+        "last_sync": "2020-10-22T16:51:00.900Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "8a1830bf-d693-4762-abc0-1dd76a96324a",
+          "type": "custom",
+          "value": "Helvetica Neue",
+          "key": "family"
+        },
+        {
+          "id": "8a1830bf-d693-4762-abc0-1dd76a96324a",
+          "type": "custom",
+          "value": "Bold",
+          "key": "weight"
+        },
+        {
+          "id": "8a1830bf-d693-4762-abc0-1dd76a96324a",
+          "type": "size",
+          "value": "16",
+          "key": "size"
+        }
+      ]
+    },
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "d2023066-6232-4476-a8ae-95939fe418f2",
+      "name": "Title",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/9d53e7fd-9176-4086-7a66-4f6503bd0515",
+        "id": "7eafbf83-b014-4ce0-b22d-7a9a2d744c6c",
+        "last_sync": "2020-10-22T16:51:00.900Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "d2023066-6232-4476-a8ae-95939fe418f2",
+          "type": "custom",
+          "value": "Helvetica Neue",
+          "key": "family"
+        },
+        {
+          "id": "d2023066-6232-4476-a8ae-95939fe418f2",
+          "type": "custom",
+          "value": "Regular",
+          "key": "weight"
+        },
+        {
+          "id": "d2023066-6232-4476-a8ae-95939fe418f2",
+          "type": "size",
+          "value": "20",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}
